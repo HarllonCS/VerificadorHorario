@@ -1,2 +1,2 @@
-# VerificadorHorario
- Esse site mostra um imagem e coloração dependeno do horário.
+# Verificador de Horario
+ Esse site mostra uma imagem e uma coloração no background dependendo do horário.
